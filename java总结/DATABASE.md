@@ -2,7 +2,7 @@
 
 ##  nosql(非关系型)
 
-![image-20200304111807812](images\image-20200304111807812.png)
+![image-20200304111807812](https://github.com/moodsjinxin/moods/blob/master/images/image-20200304111807812.png)
 
 
 
