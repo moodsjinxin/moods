@@ -16,7 +16,7 @@
 
   - 共有3个文件（结构、数据、索引）
   - 查询索引得到数据地址去数据表中查询数据（需要回表）
-  - ![image-20200329095945664](C:\Users\金鑫\AppData\Roaming\Typora\typora-user-images\image-20200329095945664.png)
+  - ![image-20200329095945664](https://github.com/moodsjinxin/moods/blob/master/images/image-20200329095945664.png)
 
 - Innodb
 
