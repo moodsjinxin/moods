@@ -2,7 +2,7 @@
 
 ##  nosql(非关系型)
 
-![image-20200304111807812](C:\Users\金鑫\AppData\Roaming\Typora\typora-user-images\image-20200304111807812.png)
+![image-20200304111807812](images\image-20200304111807812.png)
 
 
 
