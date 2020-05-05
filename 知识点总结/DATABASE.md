@@ -2,7 +2,7 @@
 
 ##  nosql(非关系型)
 
-![image-20200304111807812](https://github.com/moodsjinxin/moods/blob/master/images/image-20200304111807812.png)
+![image-20200304111807812](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200304111807812.png)
 
 
 
@@ -16,7 +16,7 @@
 
   - 共有3个文件（结构、数据、索引）
   - 查询索引得到数据地址去数据表中查询数据（需要回表）
-  - ![image-20200329095945664](https://github.com/moodsjinxin/moods/blob/master/images/image-20200329095945664.png)
+  - ![image-20200329095945664](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200329095945664.png)
 
 - Innodb
 
@@ -24,7 +24,7 @@
 
   - 叶子结点存放数据，数据以B加树形式存储
 
-  - ![image-20200329100139645](C:\Users\金鑫\AppData\Roaming\Typora\typora-user-images\image-20200329100139645.png)
+  - ![image-20200329100139645](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200329100139645.png)
 
   - Innodb解决幻读（在可重复读的基础上）
 
@@ -40,4 +40,10 @@
     - 记录锁（recored locks） 唯一索引， 为一条记录加锁
     - 间隙所 （GAP LOCK）基于非唯一索引，锁定的是一段区间
     - 临键锁 （next-key lock） 
+  
+- 事物
+
+  - ACID（原子性、持久性、隔离性、一致性）
+
+    
 
