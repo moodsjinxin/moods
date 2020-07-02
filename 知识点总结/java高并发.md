@@ -165,7 +165,7 @@ condition.singal(); //条件上锁
 
 - 结构
 
-  ![image-20200427222236560](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200427222236560.png)
+  ![image-20200427222236560](https://github.com/moodsjinxin/moods/raw/master/images/image-20200427222236560.png)
 
   - bind-key 和route-key匹配，消息送到对应队列
 
