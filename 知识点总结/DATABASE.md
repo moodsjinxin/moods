@@ -1,6 +1,6 @@
 ## nosql(非关系型)
 
-![image-20200304111807812](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200304111807812.png)
+![image-20200304111807812](https://github.com/moodsjinxin/moods/raw/master/images/image-20200304111807812.png)
 
 ## mysql
 
@@ -12,7 +12,7 @@
 
   - 共有3个文件（结构、数据、索引）
   - 查询索引得到数据地址去数据表中查询数据（需要回表）
-  - ![image-20200329095945664](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200329095945664.png)
+  - ![image-20200329095945664](https://github.com/moodsjinxin/moods/raw/master/images/image-20200329095945664.png)
 
 - Innodb
 
@@ -20,7 +20,7 @@
 
   - 叶子结点存放数据，数据以B加树形式存储
 
-  - ![image-20200329100139645](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200329100139645.png)
+  - ![image-20200329100139645](https://github.com/moodsjinxin/moods/raw/master/images/image-20200329100139645.png)
 
   - Innodb解决幻读（在可重复读的基础上）
 
