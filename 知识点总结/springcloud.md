@@ -65,13 +65,13 @@
 
 - gateway组件的核心是**过滤器**，通过这些过滤器将客户端的请求**路由**（转发）到对应的微服务。
 
-![image-20200223110608399](C:\Users\金鑫\AppData\Roaming\Typora\typora-user-images\image-20200223110608399.png)
+![image-20200223110608399](https://github.com/moodsjinxin/moods/raw/master/images/image-20200223110608399.png)
 
  
 
 - 核心概念
 
-  ![image-20200223110911639](C:\Users\金鑫\AppData\Roaming\Typora\typora-user-images\image-20200223110911639.png)
+  ![image-20200223110911639](https://github.com/moodsjinxin/moods/raw/master/images/image-20200223110911639.png)
 
 
 
@@ -81,4 +81,4 @@
 
 - 
 
-  ![image-20200228093829848](C:\Users\金鑫\AppData\Roaming\Typora\typora-user-images\image-20200228093829848.png)
+  ![image-20200228093829848](https://github.com/moodsjinxin/moods/raw/master/images/image-20200228093829848.png)
