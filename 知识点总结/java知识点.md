@@ -196,15 +196,15 @@ Prent test= new child();
 
 - 内存
 
-  ![image-20200329105442427](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200329105442427.png)
+  ![image-20200329105442427](https://github.com/moodsjinxin/moods/raw/master/images/image-20200329105442427.png)
 
-  ![image-20200329111204416](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200329111204416.png)
+  ![image-20200329111204416](https://github.com/moodsjinxin/moods/raw/master/images/image-20200329111204416.png)
 
-  ![image-20200428091753078](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200428091753078.png)
+  ![image-20200428091753078](https://github.com/moodsjinxin/moods/raw/master/images/image-20200428091753078.png)
 
 - 类加载过程  加载、验证、解析、初始化
 
-  ![image-20200326165230161](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200326165230161.png)
+  ![image-20200326165230161](https://github.com/moodsjinxin/moods/raw/master/images/image-20200326165230161.png)
 
   - 验证：确保加载的类信息符合JVM规范，无安全方面的问题
 - 解析： 将类的二进制数据中的符号引用替换为直接引用
@@ -218,7 +218,7 @@ Prent test= new child();
 
   - Application classloader： 系统类加载器  负责加载应用类
 
-  - ![image-20200428093245039](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200428093245039.png)
+  - ![image-20200428093245039](https://github.com/moodsjinxin/moods/raw/master/images/image-20200428093245039.png)
 
   - 双亲委派机制： 类的创建都是交由父类加载器来完成，一层层向上申请，直接到启动类加载器，顶层加载器不能完成，在交由子类加载器完成。
 
@@ -270,7 +270,7 @@ Prent test= new child();
 
   - 垃圾收集器种类
 
-    ![image-20200326164404921](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200326164404921.png)
+    ![image-20200326164404921](https://github.com/moodsjinxin/moods/raw/master/images/image-20200326164404921.png)
 
     - serial / serialold  单线程串行
 
@@ -296,7 +296,7 @@ Prent test= new child();
 
   - 使用情况
 
-    - ![image-20200326164545891](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200326164545891.png)
+    - ![image-20200326164545891](https://github.com/moodsjinxin/moods/raw/master/images/image-20200326164545891.png)
     - 
 
 - JVM调优
@@ -346,13 +346,13 @@ Prent test= new child();
 
 - 利用CLASS类来创建实列
 
-  ![image-20200226224513419](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200226224513419.png)
+  ![image-20200226224513419](https://github.com/moodsjinxin/moods/raw/master/images/image-20200226224513419.png)
 
 
 
 - 利用Method类中的invoke（）方法实现反射
 
-  ![image-20200226225216830](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200226225216830.png)
+  ![image-20200226225216830](https://github.com/moodsjinxin/moods/raw/master/images/image-20200226225216830.png)
 
 - java代理
 
@@ -467,7 +467,7 @@ Prent test= new child();
 
 - JMM（内存模型，抽象非实体）
   - 可见性、原子性、有序性
-  - ![image-20200303163438670](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200303163438670.png)
+  - ![image-20200303163438670](https://github.com/moodsjinxin/moods/raw/master/images/image-20200303163438670.png)
 
 - 使用场景
   
@@ -530,7 +530,7 @@ Prent test= new child();
     
       
     
-      ![image-20200304174229639](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200304174229639.png)
+      ![image-20200304174229639](https://github.com/moodsjinxin/moods/raw/master/images/image-20200304174229639.png)
     
     - 原子引用解决ABA（时间戳的原子引用）
     
@@ -661,7 +661,7 @@ Prent test= new child();
 
 - 常用方法
 
-  ![image-20200311152002377](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200311152002377.png)
+  ![image-20200311152002377](https://github.com/moodsjinxin/moods/raw/master/images/image-20200311152002377.png)
 
 
 
@@ -726,7 +726,7 @@ Prent test= new child();
 
 - 种类
 
-  ![image-20200326145431318](C:\Users\jinxin\AppData\Roaming\Typora\typora-user-images\image-20200326145431318.png)
+  ![image-20200326145431318](https://github.com/moodsjinxin/moods/raw/master/images/image-20200326145431318.png)
 
 - 后四种类型
 
